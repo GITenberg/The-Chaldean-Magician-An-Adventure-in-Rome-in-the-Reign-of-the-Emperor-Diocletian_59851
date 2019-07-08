@@ -1,11 +1,14 @@
 _repo: The-Chaldean-Magician-An-Adventure-in-Rome-in-the-Reign-of-the-Emperor-Diocletian_59851
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Safford, Mary J.
     alias: Safford, Mary Joanna
     gutenberg_agent_id: '1802'
     url: http://www.gutenberg.org/2009/agents/1802
+covers:
+- cover_type: archival
+  image_path: 59851-h/images/cover.jpg
 creator:
   author:
     agent_name: Eckstein, Ernst
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/44011
     wikipedia: http://de.wikipedia.org/wiki/Ernst_Eckstein_(Schriftsteller)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59851#The-Chaldean-Magician-An-Adventure-in-Rome-in-the-Reign-of-the-Emperor-Diocletian
 gutenberg_issued: '2019-07-04'
 gutenberg_type: Text
 identifiers:
